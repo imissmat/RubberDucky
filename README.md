@@ -17,3 +17,5 @@ Here is the list of all the payloads given in this  rar or zip file:
 - Windows Password Grabber
 
 # Copyright@2021 by Abdullah Tahir
+This is only for Educational Purpose.
+Don't misuse it.
